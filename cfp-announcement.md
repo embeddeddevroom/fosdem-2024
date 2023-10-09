@@ -78,3 +78,9 @@ About the devroom organizers
 
 The co-organizers of the FOSDEM 2024 Embedded devroom are
 (in alphabetical order by surname):
+
+Luca Ceresoli
+Walt Miner
+Krzysztof Opasiak
+Chris Simmonds
+Geert Uytterhoeven
