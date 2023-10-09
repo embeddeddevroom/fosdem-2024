@@ -2,8 +2,8 @@ This email is a Call For Participation in the Embedded, Mobile and
 Automotive Devroom at FOSDEM 2024.
 
 
-Devroom date: 3rd February 2024 in Brussels, Belgium
-CFP deadline: Friday, 8th December 2023.
+Devroom date: February 3rd 2024 in Brussels, Belgium
+CFP deadline: Friday, December 8th 2023.
 
 Final speaker confirmation on Friday, December 15th 2023.
 
