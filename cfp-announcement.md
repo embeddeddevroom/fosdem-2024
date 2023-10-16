@@ -36,7 +36,7 @@ definition of "embedded" is elastic.
 CFP Schedule And Submission Details
 -----------------------------------------------------------
 
-Please submit proposals no later than the 9th of December.
+Please submit proposals no later than the 8th of December.
 
 Please use the following URL to submit your talk to FOSDEM 2024
 
