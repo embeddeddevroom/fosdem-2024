@@ -57,17 +57,17 @@ and follow the following rules:
      * Indicate whether you seek a 10, 25, or 50 minute slot.
        As the CFP system is still under development there may be no
        dedicated place to fill this in. If that's the case please
-       input this into Submission Notes field.
+       input this into the Submission Notes field.
 
      * Specify additional speaker email (if any). The co-speaker will
-       need create an account in order to be visible on the agenda.
+       need to create an account in order to be visible on the agenda.
 
      * Use the "Links" sub-area to your past work in the field you'd
        like to share.
 
      * This year you will need to also state the OSI-approved license
        of the subject of your talk. Although this is the mandatory
-       requirement we still want to hear talks about:
+       requirement, we still invite talks about:
        "Reverse engineering ...", "Hacking ...", "What's inside ..."
        even if the code does not exist yet. If any doubts arrise don't
        hesitate to contact us.
