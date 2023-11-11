@@ -2,7 +2,7 @@ This email is a Call For Participation in the Embedded, Mobile and
 Automotive Devroom at FOSDEM 2024.
 
 
-Devroom date: February 3rd 2024 in Brussels, Belgium  
+Devroom date: February 3rd 2024 in Brussels, Belgium
 CFP deadline: Friday, December 8th 2023.
 
 Final speaker confirmation on Friday, December 15th 2023.
@@ -40,31 +40,37 @@ Please submit proposals no later than the 8th of December.
 
 Please use the following URL to submit your talk to FOSDEM 2024
 
-https://penta.fosdem.org/submission/FOSDEM24
-
+https://fosdem.org/submit
 
 and follow the following rules:
 
-     * If you do not have an account yet, please create one, if you
-       have submitted a talk in one of the previous years, please
-       re-use your old account.
+     * This year FOSDEM uses the new CFP system - pretalx. Pentabarf
+       accounts have not been migrated so you need to create a new one
 
      * Select as the Track "Embedded, mobile and automotive devroom"
 
-     * Select as the Event Type "Lecture"
-
-     * Include a title.  (Note that "Subtitle" entry doesn't appear on
-       all conference documents, so make sure "Title" can stand on its
-       own without "Subtitle" present.)
-
-     * Include an Abstract of about 500 characters and a full description
-       of any length you wish, but in both fields, please be concise, but
-       clear and descriptive.
+     * Include a title and an abstract please be concise, but clear
+       and descriptive. Optionally you can clarify your abstract in
+       the description field and provide remarks to organizers in
+       the Submission Notes.
 
      * Indicate whether you seek a 10, 25, or 50 minute slot.
+       As the CFP system is still under development there may be no
+       dedicated place to fill this in. If that's the case please
+       input this into Submission Notes field.
 
-     * Use the "Links" sub-area to your past work in the field you'd like
-       to share.
+     * Specify additional speaker email (if any). The co-speaker will
+       need create an account in order to be visible on the agenda.
+
+     * Use the "Links" sub-area to your past work in the field you'd
+       like to share.
+
+     * This year you will need to also state the OSI-approved license
+       of the subject of your talk. Although this is the mandatory
+       requirement we still want to hear talks about:
+       "Reverse engineering ...", "Hacking ...", "What's inside ..."
+       even if the code does not exist yet. If any doubts arrise don't
+       hesitate to contact us.
 
      * Last but not least, make sure you have up to date contact info.
 
