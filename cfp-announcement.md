@@ -2,7 +2,7 @@ This email is a Call For Participation in the Embedded, Mobile and
 Automotive Devroom at FOSDEM 2024.
 
 
-Devroom date: February 3rd 2024 in Brussels, Belgium  
+Devroom date: February 3rd 2024 in Brussels, Belgium
 CFP deadline: Friday, December 8th 2023.
 
 Final speaker confirmation on Friday, December 15th 2023.
@@ -55,15 +55,22 @@ and follow the following rules:
        the Submission Notes.
 
      * Indicate whether you seek a 10, 25, or 50 minute slot.
+       As the CFP system is still under development there may be no
+       dedicated place to fill this in. If that's the case please
+       input this into Submission Notes field.
 
      * Specify additional speaker email (if any). The co-speaker will
        need create an account in order to be visible on the agenda.
 
-     * Use the "Links" sub-area to your past work in the field you'd like
-       to share.
+     * Use the "Links" sub-area to your past work in the field you'd
+       like to share.
 
-     * This year you will need to also state the OSI-approved license of
-       the subject of your talk.
+     * This year you will need to also state the OSI-approved license
+       of the subject of your talk. Although this is the mandatory
+       requirement we still want to hear talks about:
+       "Reverse engineering ...", "Hacking ...", "What's inside ..."
+       even if the code does not exist yet. If any doubts arrise don't
+       hesitate to contact us.
 
      * Last but not least, make sure you have up to date contact info.
 
