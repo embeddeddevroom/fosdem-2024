@@ -2,7 +2,7 @@ This email is a Call For Participation in the Embedded, Mobile and
 Automotive Devroom at FOSDEM 2024.
 
 
-Devroom date: February 3rd 2024 in Brussels, Belgium
+Devroom date: February 3rd 2024 in Brussels, Belgium  
 CFP deadline: Friday, December 8th 2023.
 
 Final speaker confirmation on Friday, December 15th 2023.
@@ -14,7 +14,7 @@ CFP Introduction
 Embedded software is transforming the world, and FOSS embedded software
 is leading the way. From automotive to the Internet of Things,
 launching rockets, messing with your phone or automating your toaster,
-small devices, embedded systems, and automatons are everywhere
+small devices, embedded systems, and automatons are everywhere.
 Join in and tell the world about your project!
 
 This year we welcome talks that are either:
@@ -28,7 +28,7 @@ Topics Sought
 The embedded devroom seeks topics related to automotive, industrial,
 mobile, consumer electronics, autonomous and generally embedded
 systems, either from a professional or hobbyist background. Topics
-such as operating systems (Linux, free RTOS), hardware platforms (from
+such as operating systems (Linux, FreeRTOS), hardware platforms (from
 microcontrollers to microprocessors, FPGAs) and software stacks are
 welcome. Related areas are of course of interest as well and our
 definition of "embedded" is elastic.
