@@ -28,10 +28,10 @@ Topics Sought
 The embedded devroom seeks topics related to automotive, industrial,
 mobile, consumer electronics, autonomous and generally embedded
 systems, either from a professional or hobbyist background. Topics
-such as operating systems (Linux, FreeRTOS), hardware platforms (from
-microcontrollers to microprocessors, FPGAs) and software stacks are
-welcome. Related areas are of course of interest as well and our
-definition of "embedded" is elastic.
+such as operating systems (Linux, Zephyr, NuttX, FreeRTOS), hardware
+platforms (from microcontrollers to microprocessors, FPGAs) and
+software stacks are welcome. Related areas are of course of interest
+as well and our definition of "embedded" is elastic.
 
 CFP Schedule And Submission Details
 -----------------------------------------------------------
